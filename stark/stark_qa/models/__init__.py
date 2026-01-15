@@ -1,0 +1,18 @@
+from .bm25 import BM25
+from .colbertv2 import Colbertv2
+from .colbert import ColBERT
+from .gritlm import GritLM
+from .llm_reranker import LLMReranker
+from .multi_vss import MultiVSS
+from .vss import  VSS
+
+
+REGISTERED_MODELS = [
+    'BM25',
+    'Colbertv2',
+    'ColBERT',
+    'GritLM',
+    'VSS',
+    'MultiVSS',
+    'LLMReranker'
+]

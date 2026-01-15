@@ -21,3 +21,17 @@ __pycache__/
 *.log
 *.err
 *.out
+
+# 排除 stark 目录下的大文件和目录
+stark/processed.zip
+stark/data/
+stark/emb/
+stark/Colbertv2eval/
+stark/ANCEeval/
+stark/BM25eval/
+stark/DRPeval/
+stark/LLMbasedeval/
+stark/LLMRankereval/
+stark/.cache/
+stark/.conda/
+stark/__pycache__/

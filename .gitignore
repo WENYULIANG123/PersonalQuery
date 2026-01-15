@@ -1,0 +1,23 @@
+# 排除超过100MB的大文件
+data/Amazon-Reviews-2018/intermediate/df_review.pkl
+data/Amazon-Reviews-2018/intermediate/df_ucsd_meta.pkl
+data/Amazon-Reviews-2018/processed/user_reviews/user_product_reviews.json
+data/Amazon-Reviews-2018/processed/cache/Arts_Crafts_and_Sewing__brand-category-color/node_info.pkl
+data/Amazon-Reviews-2018/processed/node_info.pkl
+data/Amazon-Reviews-2018/raw/meta_Arts_Crafts_and_Sewing.json.gz
+data/Amazon-Reviews-2018/raw/Arts_Crafts_and_Sewing.json.gz
+
+# 排除其他常见的大文件和临时文件
+*.pkl
+*.pkl.gz
+*.pt
+*.h5
+*.hdf5
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+.DS_Store
+*.log
+*.err
+*.out

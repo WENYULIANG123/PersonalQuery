@@ -4,15 +4,16 @@
 负责匹配产品实体和用户偏好实体
 """
 
-import os, json, sys
-from typing import Dict, List, Optional, Tuple
+import os
+import json
+import sys
+from typing import Dict, List
 from datetime import datetime
-from langchain_core.language_models.chat_models import BaseChatModel
 
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from model import call_llm_with_retry, APIErrorException
-from utils import get_all_api_keys_in_order, create_llm_with_config, try_api_keys_with_fallback, ApiProvider, get_all_api_keys_in_order
+from model import call_llm_with_retry, APIErrorException, ApiProvider
+from utils import get_all_api_keys_in_order, create_llm_with_config, try_api_keys_with_fallback
 
 def log_with_timestamp(message: str):
     """Log message with timestamp."""
@@ -22,7 +23,6 @@ def log_with_timestamp(message: str):
 def create_llm_with_config(api_config):
     """Create LLM with config based on provider."""
     from langchain_openai import ChatOpenAI
-    from langchain_core.language_models.chat_models import BaseChatModel
 
     provider = api_config.get('provider', 'siliconflow')
 
@@ -109,7 +109,7 @@ def process_entity_matching_response(response_str: str) -> List[str]:
 
     # Check for markdown code blocks
     if response_str.startswith('```') and '```' in response_str:
-        print(f"📦 Found markdown code block, extracting JSON...", flush=True)
+        print("📦 Found markdown code block, extracting JSON...", flush=True)
 
     if not response_str:
         raise APIErrorException("No response from entity matching")

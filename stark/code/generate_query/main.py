@@ -4,25 +4,23 @@
 整合商品实体提取、用户偏好实体提取和实体匹配模块
 """
 
-import os, json, gzip, sys, threading
-from typing import Dict, List, Optional, Union
-from datetime import datetime
+import os
+import json
+import sys
+import threading
 import concurrent.futures
 
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from model import APIErrorException, ApiProvider, get_all_api_keys_in_order
+from model import get_all_api_keys_in_order
 
 # Import modules
 from product_extraction import (
-    log_with_timestamp, clean_html_content, load_data_from_gzip, load_data,
-    load_product_metadata, process_product_extraction_response,
-    extract_product_entities, extract_product_entities_only
+    log_with_timestamp, clean_html_content, load_product_metadata, extract_product_entities_only
 )
 
 from user_preference_extraction import (
-    load_user_reviews, process_user_preference_extraction_response,
-    prepare_content_and_extract_entities, TARGET_USER, OUTPUT_FILE
+    load_user_reviews, prepare_content_and_extract_entities, TARGET_USER, OUTPUT_FILE
 )
 
 from utils import (
@@ -30,8 +28,7 @@ from utils import (
 )
 
 from entity_matching import (
-    process_entity_matching_response, match_product_and_user_entities,
-    perform_entity_matching, generate_formatted_product_output
+    perform_entity_matching
 )
 
 from query_generation import generate_queries_for_matched_products
@@ -105,7 +102,7 @@ def print_entity_matching_results():
             if len(unique_reviews) > 3:
                 print(f'    ... and {len(unique_reviews) - 3} more unique reviews', flush=True)
         else:
-            print(f'  Reviews: None found', flush=True)
+            print('  Reviews: None found', flush=True)
 
         # 打印产品实体
         if product_entities:
@@ -114,7 +111,7 @@ def print_entity_matching_results():
             for category, entities in product_entities.items():
                 print(f'    {category}: {", ".join(entities)}', flush=True)
         else:
-            print(f'  Product Entities: None extracted', flush=True)
+            print('  Product Entities: None extracted', flush=True)
 
         # 打印用户偏好实体
         if user_entities:
@@ -123,7 +120,7 @@ def print_entity_matching_results():
             for category, entities in user_entities.items():
                 print(f'    {category}: {", ".join(entities)}', flush=True)
         else:
-            print(f'  User Preference Entities: None extracted', flush=True)
+            print('  User Preference Entities: None extracted', flush=True)
 
         # 打印匹配实体
         if matched_entities:
@@ -132,17 +129,17 @@ def print_entity_matching_results():
             for category, entities in matched_entities.items():
                 print(f'    {category}: {", ".join(entities)}', flush=True)
         else:
-            print(f'  Matched Entities: No matches found', flush=True)
+            print('  Matched Entities: No matches found', flush=True)
 
         # 打印生成的查询
         generated_query = product.get('generated_query', '')
         if generated_query:
             print(f'  Generated Query: {generated_query}', flush=True)
         else:
-            print(f'  Generated Query: None generated', flush=True)
+            print('  Generated Query: None generated', flush=True)
 
         # 打印metadata
-        print(f'  Metadata:', flush=True)
+        print('  Metadata:', flush=True)
         for key, value in metadata.items():
             print(f'    {key}: {value}', flush=True)
         print()
@@ -290,10 +287,6 @@ def main():
     total_reviews_to_process = sum(len(reviews) for reviews in reviews_by_asin.values())
     log_with_timestamp(f'📊 Total user preference reviews to process: {total_reviews_to_process}')
 
-    output_data = {
-        'user_id': TARGET_USER,
-        'products': []
-    }
 
     product_user_entities_map = {}  # asin -> user_entities
 
@@ -421,7 +414,6 @@ def main():
                     asin, user_entities, user_explanations, review_content = future_result
                 elif len(future_result) == 2:
                     asin, user_entities = future_result
-                    user_explanations = {}
                     review_content = []
                 else:
                     raise ValueError(f"Unexpected result format: {future_result}")
@@ -444,7 +436,12 @@ def main():
 
     log_with_timestamp('💾 Saving extracted entity data...')
 
-    product_entities_file = "/home/wlia0047/ar57_scratch/wenyu/product_entities.json"
+    # Get the workspace root directory (parent of stark directory)
+    workspace_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    result_dir = os.path.join(workspace_root, "result")
+    os.makedirs(result_dir, exist_ok=True)
+    
+    product_entities_file = os.path.join(result_dir, "product_entities.json")
     product_entities_data = {
         'user_id': TARGET_USER,
         'products': []
@@ -550,7 +547,7 @@ def main():
     log_with_timestamp(f'💾 Saved product entities to {product_entities_file}')
 
     # 保存用户偏好实体数据到新的JSON文件
-    user_preferences_file = "/home/wlia0047/ar57_scratch/wenyu/user_preference_entities.json"
+    user_preferences_file = os.path.join(result_dir, "user_preference_entities.json")
     try:
         user_pref_save_data = {
             'user_id': TARGET_USER,
@@ -573,7 +570,7 @@ def main():
     log_with_timestamp('🎯 Entity extraction phase finished.')
 
     # 加载用户偏好数据并合并到商品数据中
-    user_preferences_file = "/home/wlia0047/ar57_scratch/wenyu/user_preference_entities.json"
+    # user_preferences_file already defined above
     try:
         with open(user_preferences_file, 'r', encoding='utf-8') as f:
             user_pref_data = json.load(f)
@@ -601,7 +598,7 @@ def main():
     matched_products = perform_entity_matching(save_data['products'])
 
     # 保存实体匹配结果到新文件
-    matched_entities_file = "/home/wlia0047/ar57_scratch/wenyu/entity_matching_results.json"
+    matched_entities_file = os.path.join(result_dir, "entity_matching_results.json")
     try:
         matched_data = {
             'user_id': TARGET_USER,
@@ -619,7 +616,7 @@ def main():
 
         # 保存生成的查询到单独的文件
         if products_with_queries:
-            generated_queries_file = "/home/wlia0047/ar57_scratch/wenyu/generated_queries.json"
+            generated_queries_file = os.path.join(result_dir, "generated_queries.json")
             queries_data = {
                 'user_id': TARGET_USER,
                 'products': products_with_queries

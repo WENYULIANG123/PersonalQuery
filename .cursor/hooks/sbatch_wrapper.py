@@ -201,6 +201,9 @@ def main():
     input_data = read_input()
     is_hook_mode = bool(input_data)
     
+    # Always log when hook is called (even if no input)
+    print(f"[sbatch_wrapper] Hook被调用 - is_hook_mode: {is_hook_mode}, stdin_isatty: {sys.stdin.isatty()}", file=sys.stderr)
+    
     if is_hook_mode:
         # Hook mode: intercept command and wrap with sbatch
         command = input_data.get("command", "").strip()
@@ -212,7 +215,7 @@ def main():
         )
         
         # Debug output
-        print(f"[sbatch_wrapper] 命令: {command[:100]}", file=sys.stderr)
+        print(f"[sbatch_wrapper] 命令: {command[:200]}", file=sys.stderr)
         print(f"[sbatch_wrapper] 工作目录: {working_dir}", file=sys.stderr)
         
         # Check if this is a Python script command

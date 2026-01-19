@@ -28,14 +28,19 @@ PersonalQuery 是一个集成了 **STaRK (Semi-structured Retrieval Benchmark)**
 │   │   │   └── prime.py          # 生物医学知识库
 │   │   └── tools/                # 工具函数
 │   ├── code/                      # 自定义代码
-│   │   ├── generate_query/       # 个性化查询生成系统
+│   │   ├── generate_query/       # 个性化查询生成系统（模块化子目录）
 │   │   │   ├── main.py           # 主流程控制
 │   │   │   ├── product_extraction.py      # 商品实体提取
 │   │   │   ├── user_preference_extraction.py  # 用户偏好提取
 │   │   │   ├── entity_matching.py         # 实体匹配
 │   │   │   └── query_generation.py       # 查询生成
-│   │   ├── generate_strategy_variants.py  # 查询变体生成
-│   │   └── analysis/             # 分析脚本
+│   │   ├── entity_matching/      # entity_matching 建图/可视化/网页（静态 explorer）
+│   │   ├── query_generation/     # 查询变体/错误感知/语法相关 query 生成
+│   │   ├── retrieval/            # 检索相关：索引构建 + 各种 eval 脚本
+│   │   ├── analysis/             # 分析脚本（review_style 等）
+│   │   ├── preprocessing/        # 预处理脚本（node_info 等）
+│   │   ├── tests/                # 测试脚本
+│   │   └── model.py              # LLM 调用与 API 管理（共享）
 │   ├── eval.py                   # 主评估脚本
 │   └── requirements.txt          # Python依赖
 ├── data/                         # 数据目录
@@ -137,7 +142,7 @@ python main.py
 cd stark/code
 
 # 生成查询变体
-python generate_strategy_variants.py
+python query_generation/generate_strategy_variants.py
 ```
 
 **支持的策略：**

@@ -4,14 +4,16 @@
 负责为匹配实体足够丰富的商品生成自然语言查询语句
 """
 
-import os, json, sys, threading
-from typing import Dict, List
+import os
+import sys
+import threading
+from typing import List
 import concurrent.futures
 
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from model import call_llm_with_retry, APIErrorException
-from utils import try_api_keys_with_fallback, create_llm_with_config, ApiProvider, get_all_api_keys_in_order
+from model import call_llm_with_retry
+from utils import try_api_keys_with_fallback, create_llm_with_config
 
 def log_with_timestamp(message: str):
     """Log message with timestamp."""
@@ -95,7 +97,7 @@ def generate_queries_for_matched_products(data, all_api_keys):
         try:
             asin = product.get('asin', 'Unknown')
             matched_entities_dict = product.get('matched_entities', {})
-            product_entities = product.get('product_entities', {})
+            product.get('product_entities', {})
 
             # Convert matched entities dict to flat list for query generation
             matched_entities_list = []

@@ -1,0 +1,5485 @@
+{
+  "user_id": "AG7EF0SVBQOUX",
+  "products": [
+    {
+      "asin": "B000MATF4A",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "chalky",
+            "sentiment": "negative"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "gorgeous",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 2.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "01 27, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000MATF4A",
+          "reviewerName": "PearlGirl",
+          "reviewText": "The condition in which I received this order told me that mail order was probably not the best way to get this. It is literally a chalky mess. The colors are gorgeous but I will try to find a replacement locally.",
+          "summary": "Pretty but messy",
+          "unixReviewTime": 1453852800
+        }
+      ]
+    },
+    {
+      "asin": "B001AGZXUA",
+      "user_preference_entities": {
+        "Design": [
+          {
+            "entity": "needle",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "light part",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "used this",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "helpful",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "used this",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "pulls the thread through the needle",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 2.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "03 4, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001AGZXUA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I used this only two times. The third time the piece that pulls the thread through the needle snapped in half. I was so loving this as it was so helpful. At least the light part still works.",
+          "summary": "Good idea but cheap construction",
+          "unixReviewTime": 1425427200
+        }
+      ]
+    },
+    {
+      "asin": "B001668EL4",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "trip to Asia",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "03 6, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001668EL4",
+          "style": {
+            "Size:": " 120",
+            "Color:": " Antique Brown"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought this case for my Faber-Castell Albrect Durer set of 120 watercolor pencils. I just completed a trip to Asia and took the tin with me. It was so heavy and cumbersome. Putting my pencils in this case made the load so much lighter and easier to manage.",
+          "summary": "Great for travel!",
+          "unixReviewTime": 1457222400
+        },
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "03 6, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001668EL4",
+          "style": {
+            "Size:": " 120",
+            "Color:": " Antique Brown"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought this case for my Faber-Castell Albrect Durer set of 120 watercolor pencils. I just completed a trip to Asia and took the tin with me. It was so heavy and cumbersome. Putting my pencils in this case made the load so much lighter and easier to manage.",
+          "summary": "Great for travel!",
+          "unixReviewTime": 1457222400
+        }
+      ]
+    },
+    {
+      "asin": "B001BEV7JC",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "embroidery media",
+            "sentiment": "neutral"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "color schemes",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "stamped design",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "kits",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "relaxing project",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "02 10, 2012",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001BEV7JC",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I wish more kits were available. I would like to experiment with different color schemes and types of embroidery media. The stamped design on the towels is very pretty. Definitely a nice relaxing project.",
+          "summary": "Lovely!",
+          "unixReviewTime": 1328832000
+        }
+      ]
+    },
+    {
+      "asin": "B000RAYLXK",
+      "user_preference_entities": {
+        "Color/Finish": [
+          {
+            "entity": "color",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "ear lobes",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "findings",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "reliable",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "12 18, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000RAYLXK",
+          "reviewerName": "PearlGirl",
+          "reviewText": "The findings I received were of good quality. I needed to repair some earrings that had broken fishhooks. These will be much more reliable for staying on my ear lobes. The color is good, also.",
+          "summary": "Just what I needed!",
+          "unixReviewTime": 1387324800
+        }
+      ]
+    },
+    {
+      "asin": "B00114587Y",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "gemstones",
+            "sentiment": "positive"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "one skein",
+            "sentiment": "negative"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "very pretty",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "enhance a project",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "full project",
+            "sentiment": "negative"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "price",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "08 18, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00114587Y",
+          "style": {
+            "Color:": " Gemstones"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered gemstones and it is very pretty. However, I think it is overpriced for just one skein. That cost one star. I would use this to enhance a project, too expensive to use for a full project.",
+          "summary": "Very pretty!",
+          "unixReviewTime": 1376784000
+        },
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "08 18, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00114587Y",
+          "style": {
+            "Color:": " Gemstones"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered gemstones and it is very pretty. However, I think it is overpriced for just one skein. That cost one star. I would use this to enhance a project, too expensive to use for a full project.",
+          "summary": "Very pretty!",
+          "unixReviewTime": 1376784000
+        }
+      ]
+    },
+    {
+      "asin": "B000RB1MH2",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "fish hooks",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "01 8, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000RB1MH2",
+          "reviewerName": "PearlGirl",
+          "reviewText": "These are much smaller than I expected. The product description said 4mm, so I took a chance. These will be useful when I change some of my white gold earrings from fish hooks to leverbacks. From now on, I think I will use the larger sterling silver jump rings which are also less expensive.",
+          "summary": "Tiny but nice",
+          "unixReviewTime": 1389139200
+        }
+      ]
+    },
+    {
+      "asin": "B000I7OIPI",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "watercolor crayons",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "watercolor paper",
+            "sentiment": "neutral"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "24 colors",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "dry",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "wet",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "vivid",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "coloring books",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "tube paint set",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "portable",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "water brush",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "size 00 paint brush",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "coloring",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "05 29, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000I7OIPI",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought these as a first glance at using watercolor crayons. The 24 colors provide a good range of primaries and mixable colors. I made a color chart of dry and wet. The wet colors become vivid and really stand out. I use a water brush and a size 00 paint brush for my coloring books. There are coloring books made with watercolor paper and these work well with those books. The crayons tend to be a little crumbly but, overall, they are easier to use and more portable than a tube paint set.",
+          "summary": "Good set for the price",
+          "unixReviewTime": 1496016000
+        }
+      ]
+    },
+    {
+      "asin": "B00114OSR0",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "set",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "05 10, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00114OSR0",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I deducted one star because some of the pattern print had rubbed off. Otherwise, this will be a lovely set when I am finished.",
+          "summary": "Very pretty!",
+          "unixReviewTime": 1399680000
+        }
+      ]
+    },
+    {
+      "asin": "B001C1NMO2",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "DMC",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "flosses",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colors",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "samples",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "product lines",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "old",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "08 28, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001C1NMO2",
+          "style": {
+            "Size:": " 1 PACK"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "There are no actual samples in this version like there were in the previous version. However, this one has a more up-to-date list of all the colors for all their product lines. This version also has more info about the types of flosses DMC makes. I will keep my old along with this one.",
+          "summary": "Not like the previous version",
+          "unixReviewTime": 1377648000
+        }
+      ]
+    },
+    {
+      "asin": "B0011UP7BK",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "pencils",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "fixative",
+            "sentiment": "neutral"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "set",
+            "sentiment": "neutral"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "vivid",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "paler",
+            "sentiment": "negative"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "watercolor effect",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "coloring books",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "preserve my pages",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "wet the drawing",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "dry",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "vivid colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "easy to hold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "watercolor effect",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "can of workable fixative",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "paint brush",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "coloring books",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "wetting",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "wet the drawing",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "laying the color down",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "6",
+          "verified": true,
+          "reviewTime": "06 10, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0011UP7BK",
+          "style": {
+            "Size:": " 60-Color Set"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I got this set from the warehouse deals at a decent price. I love playing with the various mediums to complete my coloring books. This set is the latest addition to my collection. Some pencils shed more dust than others, but the colors are vivid. There are no color names, just numbers. The pencils are easy to hold and color with. I also purchased a can of workable fixative to preserve my pages and prevent smudging and smearing. I am looking forward to trying these wet as I love the watercolor effect of pencils.\n\nUpdate 06/11/16: I finally tried these by wetting the drawing after laying the color down. The color got a little paler but the vibrancy remained. It takes a few minutes to dry, then it is permanent. If you do not have a can of workable fixative spray but do have a paint brush, wetting may be an alternative.",
+          "summary": "Messy but beautiful colors",
+          "unixReviewTime": 1465516800
+        },
+        {
+          "overall": 5.0,
+          "vote": "6",
+          "verified": true,
+          "reviewTime": "06 10, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0011UP7BK",
+          "style": {
+            "Size:": " 60-Color Set"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I got this set from the warehouse deals at a decent price. I love playing with the various mediums to complete my coloring books. This set is the latest addition to my collection. Some pencils shed more dust than others, but the colors are vivid. There are no color names, just numbers. The pencils are easy to hold and color with. I also purchased a can of workable fixative to preserve my pages and prevent smudging and smearing. I am looking forward to trying these wet as I love the watercolor effect of pencils.\n\nUpdate 06/11/16: I finally tried these by wetting the drawing after laying the color down. The color got a little paler but the vibrancy remained. It takes a few minutes to dry, then it is permanent. If you do not have a can of workable fixative spray but do have a paint brush, wetting may be an alternative.",
+          "summary": "Messy but beautiful colors",
+          "unixReviewTime": 1465516800
+        }
+      ]
+    },
+    {
+      "asin": "B001PMI5TA",
+      "user_preference_entities": {
+        "Dimensions": [
+          {
+            "entity": "size",
+            "sentiment": "positive"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "weight",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "ideas",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "pearl earrings",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "projects",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "tarnished",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "01 31, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001PMI5TA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I needed to redo a pair of pearl earrings whose chains have tarnished beyond all hope. This is just the right size and weight for my project. I can also make other projects from this. I have several ideas already.",
+          "summary": "Just what I needed!",
+          "unixReviewTime": 1391126400
+        }
+      ]
+    },
+    {
+      "asin": "B000N2Y6P0",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "swirled it on the stick",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "6",
+          "verified": true,
+          "reviewTime": "07 5, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000N2Y6P0",
+          "style": {
+            "Size:": " 96 Pack",
+            "Package Type:": " Standard Packaging"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I read the reviews and decided to take a chance on these because the price was right at the time. My order arrived in tact and none of my sticks was broken. Each stick was wrapped in spongy foam. Each stick is stamped with a number, so I downloaded the color chart from Blick to get the color names. I swatched these dry, then did some wet tests in a coloring book with good paper. I wetted a paint brush, swirled it on the stick to pick up color and painted some flowers. The color was amazing. The pigment was strong and rich. It really popped out and it dried fast. The color rivaled most of the watercolor pencils I own. When I wanted to clean up the color like when I color outside the lines, it lifts easily with an eraser. I used the Faber-Castell pencil eraser with brush. I wish there was some way to carry these around when I travel, but this box of 96 is too large and bulky. Overall, I love these!",
+          "summary": "Great color when dry, more amazing when wet.",
+          "unixReviewTime": 1499212800
+        }
+      ]
+    },
+    {
+      "asin": "B000BGSZFU",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "Micropearl",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Pearlwhite",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Macropearl",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Metallics",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "Metallics",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Micropearl",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Pearlwhite",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Macropearl",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Red-Russet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Super-Russet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Super-Copper",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Brilliant Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sparkle Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Aztec Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Antique Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Antique Bronze",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Antique Copper",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Antique Silver",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Silver",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Super Bronze",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Super Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Bright Yellow",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Flamingo Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Spring Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Turquoise",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "True Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Misty Lavender",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Blue Russet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Solar Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Red/Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Green/Purple",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Violet/Brass",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Interference Colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Violet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Gold",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "shimmer",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "last a long time",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "mixing",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "08 17, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000BGSZFU",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought these to mix with inks and paints. The shimmer is gorgeous. The pots seem small at first, but only a little is needed for my projects. They will last a long time barring any accidental spills. Here is a list of the colors I received:\nMetallics\n650 Micropearl\n651 Pearlwhite\n652 Macropearl\n653 Red-Russet\n654 Super-Russet\n655 Super-Copper\n656 Brilliant Gold\n657 Sparkle Gold\n658 Aztec Gold\n659 Antique Gold\n660 Antique Bronze\n661 Antique Copper\n662 Antique Silver\n663 Silver\n664 Super Bronze\n665 Super Gold\n683 Bright Yellow\n684 Flamingo Pink\n685 Spring Green\n686 Turquoise\n687 True Blue\n688 Misty Lavender\n689 Blue Russet\n691 Solar Gold\n\nDuo colors\n680 Red/Blue\n692 Green/Purple\n693 Violet/Brass\n\nInterference Colors\n670 Red\n671 Blue\n672 Green\n673 Violet\n674 Gold",
+          "summary": "Beautiful to look at",
+          "unixReviewTime": 1502928000
+        }
+      ]
+    },
+    {
+      "asin": "B002AKCDAS",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Magic Bobbin Genie",
+            "sentiment": "negative"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "small",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "lightweight",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "truly portable",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "basic stitching",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "repair jobs",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "haute couture garment",
+            "sentiment": "negative"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "Magic Bobbin Genie",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "tote bag",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "sewing",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "threading the needle",
+            "sentiment": "negative"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "short stitch",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "long stitch",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "5",
+          "verified": true,
+          "reviewTime": "10 14, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B002AKCDAS",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I tried other brands but none of them worked. I was surprised, but this actually sews! I tried the short stitch and the long stitch and both came out OK. I put a Magic Bobbin Genie in the bobbin case and it seemed to make it worse. This little machine is for very basic stitching and repair jobs. You will not create any haute couture garment on this, but it is useful. This is small and very lightweight, what I would consider truly portable without being heavy. The machine and its accessories slip easily inside a tote bag. My only gripe, so far, is the size of the presser foot. It is a little too big and makes threading the needle more difficult. I had to use a needle threader to pull the thread through. It cannot be changed out for a smaller foot.",
+          "summary": "It works!",
+          "unixReviewTime": 1444780800
+        }
+      ]
+    },
+    {
+      "asin": "B001T2YFCW",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "floss collection",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "19",
+          "verified": true,
+          "reviewTime": "08 28, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001T2YFCW",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Theses are the colors: Christmas red, Christmas green, old gold, new gold, light gold, silver, copper, dark periwinkle blue, peacock blue, light pink, cranberry and neon yellow (why this color because it doesn't fit in the scheme). I really like the other 11 colors. What I find interesting is the metallic threads are made of cotton, so they are not scratchy to the touch. They will make a great addition to my floss collection.",
+          "summary": "Great assortment",
+          "unixReviewTime": 1377648000
+        }
+      ]
+    },
+    {
+      "asin": "B000S5OWCO",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "wet towelette",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "11",
+          "verified": true,
+          "reviewTime": "06 19, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B000S5OWCO",
+          "style": {
+            "Style:": " 84 Colors"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a good size set of 84 different colors. I swatched them as soon as I received my set. The colors are bright and vibrant. I made thick swatches to see how deep the vibrancy goes. I used a nylon water brush with water and a wet towelette to wipe the color. The colors cleaned up easily and left nothing on my fingers. Some colors really pop on the the paper. I used 140 lb cold press watercolor paper which has a distinct tooth I see as I lay down color. Trying to pick my favorite colors was difficult since I like just about all of them. I was impressed by the three metallic crayons. They really do look metallic. Bronze is particularly pretty. I believe that the colors we receive depends on when and where these are ordered. There are some sets that have a different color set, but the ones coming from Blick contain the following colors listed after my review. Blick also has loose stock for reordering. If they weren't so bulky to transport, these might easily have taken the place of my pencils. The tin is nice and sturdy, but heavy. I like the metal tray that holds the first plastic tray. The flimsy plastic tray is no good by itself. Overall, I am impressed by the quality and creaminess of the crayons. I do wish I could get all 126 colors.\n\n001 White\n002 Silver Gray\n003 Light Gray\n005 Gray\n007 Dark Gray\n008 Grayish Black\n009 Black\n010 Yellow\n011 Pale Yellow\n020 Golden Yellow\n028 Toledo Brown\n030 Orange\n031 Orangish Yellow\n033 Golden Ochre\n035 Ochre\n036 Raw Sienna\n039 Olive Brown\n041 Apricot\n042 Flesh\n045 Vandycke Brown\n049 Raw Umber\n050 Flame Red\n051 Salmon\n052 Saffron\n055 Cinnamon\n059 Brown\n060 Vermilion\n063 English Red\n065 Russet\n069 Burnt Sienna\n070 Scarlet\n071 Salmon Pink\n080 Carmine\n081 Pink\n090 Purple\n099 Aubergine\n100 Purple Violet\n110 Lilac\n111 Mauve\n120 Violet\n130 Royal Blue\n131 Periwinkle Blue\n139 Indigo Blue\n140 Ultramarine\n141 Sky Blue\n149 Night Blue\n150 Sapphire Blue\n159 Prussian Blue\n160 Cobalt Blue\n161 Light Blue\n171 Turquoise Blue\n180 Malachite Green\n190 Greenish Blue\n191 Turquoise Green\n201 Veronese Green\n210 Emerald Green\n211 Jade Green\n212 Chromium Oxide Green\n220 Grass Green\n225 Moss Green\n229 Dark Green\n230 Yellow Green\n231 Lime Green\n240 Lemon Yellow\n245 Light Olive\n249 Olive\n250 Canary Yellow\n260 Blue\n280 Ruby Red\n300 Fast Orange\n403 Beige\n407 Sepia\n409 Charcoal Gray\n497 Bronze\n498 Metallic Silver\n499 Gold\n508 Paynes Grey\n521 Sahara Yellow\n560 Light Cadmium Red\n589 Crimson Alizarin\n661 Light Cobalt Blue\n710 Phthalocyanine Green\n720 Bright Green\n730 Chinese Green",
+          "summary": "Great set of creamy vivid colors!",
+          "unixReviewTime": 1497830400
+        }
+      ]
+    },
+    {
+      "asin": "B002BQ09RA",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "presser foot lifter",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "negative",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 1.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "02 16, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B002BQ09RA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I hoped I could use this as a portable emergency machine. Nothing works. The wheel does not turn, the feed dogs are stuck up and the presser foot lifter is broken.",
+          "summary": "Going on the shelf as a toy",
+          "unixReviewTime": 1424044800
+        }
+      ]
+    },
+    {
+      "asin": "B001U0152G",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "stitching",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "19",
+          "verified": true,
+          "reviewTime": "12 23, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001U0152G",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I will give this 5 stars right now just for looks. I love the variety of colors! This is a great selection. They are economically packed in a box for minimum storage space. I am still waiting for my Singer S10 Studio embroidery machine to arrive. I will update my review for how the thread acts. I hope they meet my expectations because these look so great.\n\nUpdate: I received my Singer S10 Studio embroidery machine Christmas Eve. I practiced on a piece of muslin with lightweight stabilizer. I used #580 green to stitch out the safety pin design. My machine had no problem accepting the thread. The invididual colors in the thread seem to be very long, so you won't get a mixed color effect on a small design. Still, very pretty and fun to play with.\n\nHere is my color chart:\n\nFK-Rose/Green/Black\n148-Green/Orange/Black\n158-Spruce/Orange/Black\n202-Pewter/Lt. Gray\n203-Lavender/Gray\n204-Med. Dk. Pink/Lt. Pink\n563-Lt. Pink/Lt. Gray\n567-Cherry Red/Dk. Pink\n572-Navy/Gray\n576-Lt. Green/Pale blue\n577-Med. Green/Yellow Green\n580-Kelly Green/Yellow Green\n581-Lemon Yellow/Off White-Ecru\n582-Lt. Orange/Pale Yellow\n584-Peach/Pink\n588-Med. Olive/Pale Yellow\n598-Wine/Med. Gray\n605-Med. Dk. Brown/Tobacco\n607-Very Dk. Peach/Pale Pink\n609-Peacock Blue/Gray/Lt. Blue\n616-Black/Gray/Lt. Gray\n617-Aquamarine/Lt. Gray\n9706-Lt. Aqua/Lt. Gray\n9726-Purple/Purple Gray\n9793A-Tobacco/Gray",
+          "summary": "Very pretty!",
+          "unixReviewTime": 1419292800
+        }
+      ]
+    },
+    {
+      "asin": "B00369ZL2E",
+      "user_preference_entities": {
+        "Design": [
+          {
+            "entity": "shimmer",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "coloring pages",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "pumps",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "clumps",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "fine",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "01 11, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00369ZL2E",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This leaves a very pretty shimmer on my coloring pages. It took a few pumps to get it going and get the clumps out.",
+          "summary": "Very fine and pretty",
+          "unixReviewTime": 1515628800
+        }
+      ]
+    },
+    {
+      "asin": "B00389N8HC",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "practice",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "11 18, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00389N8HC",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is not really a pearl top coat. The pearlized accent is more of a true pearl. This is pretty but not what I wanted. However, with practice, it does apply a nice subtle light glittery effect.",
+          "summary": "Not a true pearl effect but still pretty",
+          "unixReviewTime": 1479427200
+        }
+      ]
+    },
+    {
+      "asin": "B003DQLFPW",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "graphite",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "woodless",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "set",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "art",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "better quality pencils",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "shipping",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "09 2, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B003DQLFPW",
+          "style": {
+            "Size:": " Sketch Set"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "My woodless graphite pencil did not survive shipping, but everything else arrived in tact. This is a good set for beginners who have yet to determine if they want to pursue this form of art. I can invest in better quality pencils later.",
+          "summary": "Good for beginners",
+          "unixReviewTime": 1504310400
+        }
+      ]
+    },
+    {
+      "asin": "B003TZZ634",
+      "user_preference_entities": {
+        "Usage": [
+          {
+            "entity": "sewing",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "needle usage tracking",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "needle usage tracking",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "no more guessing",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "sewing",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": false,
+          "reviewTime": "03 2, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B003TZZ634",
+          "reviewerName": "PearlGirl",
+          "reviewText": "What a great idea for us sewers. This has slots the types of machine needles and how long they have been used. No more guessing or using a needle until it starts to distort my project.",
+          "summary": "Great and handy!",
+          "unixReviewTime": 1425254400
+        }
+      ]
+    },
+    {
+      "asin": "B003WD2T06",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "Great value",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "01 23, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B003WD2T06",
+          "style": {
+            "Color:": " Black & White"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I have used this with polyester and metallic thread. It embroidered my projects great. I had no problem with breakage or looping threads. Great value for the price.",
+          "summary": "I need both colors!",
+          "unixReviewTime": 1421971200
+        }
+      ]
+    },
+    {
+      "asin": "B001GQ37ZW",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "PrismaColor",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "creamy",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "Cherry Blossom",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Snow Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Coral",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Salmon Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Carnation",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Rose",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Carmine",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Signal Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Scarlet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Vermilion",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Tiger Lily",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Orange",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Strawberry",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Madder Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Light Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Burnt Sienna",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Autumn Leaf",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Wine Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Crimson",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Ash Rose",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Burgundy",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Chocolate",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Mahogany",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cinnamon",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Brick",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cocoa",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Brown",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Ivory",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Peach",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Jaune Brillant",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Flesh",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cream",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Apricot",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Naples Yellow",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Tangerine",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Marigold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sunflower",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Dandelion",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Canary Yellow",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lemon",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Yellow Ochre",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Mustard",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cork",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Beige",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sand",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Burnt Umber",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sepia",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Raw Umber",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Olive Drab",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Olive Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Tan",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Khaki",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Olive Brown",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Olive Yellow",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lettuce Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cobalt Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Jade Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Ice Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Emerald Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Chartreuse Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Spring Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Fresh Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Summer Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Viridian",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Peacock Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Apple Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Evergreen",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Malachite Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sap Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Holly Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Forest Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Triton Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Willow Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Opal Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Misty Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Mint Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Surf Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Celadon",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Fir Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Moss Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Leaf Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cactus Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Jasper Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Bottle Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Horizon Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Porcelain Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Aqua",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sky Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Forget-me-not Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lavender Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cerulean Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Smart Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Peacock Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Turquoise Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Spectrum Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cobalt Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Royal Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Ultra Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Navy Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Prussian Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sky Mist",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Smoke Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Saxe Blue",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lilac",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Rose Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Wisteria",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Mauve",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Fuchsia",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cosmos",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Pansy",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Violet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Iris",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Amethyst",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Azalea",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Magenta",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Indigo",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Bordeaux Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Sea Fog",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Grape",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Raisin",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Rose Grey",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "White",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Soft White",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Black",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lamp Black",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #1",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #2",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #3",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #4",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #5",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Warm Grey #6",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #1",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #2",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #3",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #4",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #5",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Cool Grey #6",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Pale Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Bronze",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Copper",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Silver",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Antique Silver",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Red",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Rose",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Opera",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Orange",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Lemon",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Luminous Green",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "travel",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "professional artist",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "amateur",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "lay down easily",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "paper box",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "case",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "colors really pop on the page",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "excel that set",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "32",
+          "verified": true,
+          "reviewTime": "11 12, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B001GQ37ZW",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I cannot believe I paid this kind of money for colored pencils! I received these today and I already think they are amazing. The number of pastels in this set is great, unlike the major colored pencil makers who seem to concentrate on medium or darker colors. There is a set of six colors called luminous that are like neons. Their colors really pop on the page. There are colors that I wish I had before in other sets but finally I have them in this one. They lay down easily and feel creamy when coloring. I have a good batch of PrismaColor Premiers which also feel very creamy and these excel that set. The set came in a very nice paper box but I also bought a separate case because I like to travel with my pencils. There is literature inside giving a full list of the color names and numbers but it is in Japanese. Whether you are a professional artist or an amateur, you should find these pencils a joy to work with, once you get past the price.\n\nColor list of 150:\n011 Cherry Blossom\n019 Snow Pink\n022 Pink\n024 Coral\n028 Salmon Pink\n031 Carnation\n040 Rose\n042 Carmine\n043 Signal Red\n044 Scarlet\n046 Vermilion\n047 Tiger Lily\n048 Orange\n051 Strawberry\n052 Madder Red\n054 Light Red\n057 Burnt Sienna\n059 Autumn Leaf\n060 Wine Red\n062 Crimson\n076 Ash Rose\n080 Burgundy\n086 Chocolate\n093 Mahogany\n096 Cinnamon\n097 Brick\n098 Cocoa\n099 Brown\n116 Ivory\n120 Peach\n122 Jaune Brillant\n123 Flesh\n127 Cream\n131 Apricot\n134 Naples Yellow\n140 Tangerine\n142 Marigold\n143 Sunflower\n145 Dandelion\n147 Canary Yellow\n149 Lemon\n153 Yellow Ochre\n165 Mustard\n171 Cork\n173 Beige\n175 Sand\n180 Burnt Umber\n182 Sepia\n184 Raw Umber\n187 Olive Drab\n189 Olive Green\n192 Tan\n194 Khaki\n195 Olive Brown\n198 Olive Yellow\n222 Lettuce Green\n225 Cobalt Green\n227 Jade Green\n228 Ice Green\n235 Emerald Green\n240 Chartreuse Green\n242 Spring Green\n243 Fresh Green\n245 Summer Green\n247 Viridian\n248 Peacock Green\n251 Apple Green\n254 Evergreen\n255 Malachite Green\n262 Sap Green\n264 Holly Green\n267 Forest Green\n269 Triton Green\n270 Willow Green\n271 Opal Green\n272 Misty Green\n274 Mint Green\n275 Surf Green\n277 Celadon\n288 Fir Green\n290 Moss Green\n291 Leaf Green\n292 Cactus Green\n294 Jasper Green\n296 Bottle Green\n312 Horizon Blue\n321 Porcelain Blue\n323 Aqua\n324 Sky Blue\n326 Forget-me-not Blue\n328 Lavender Blue\n335 Cerulean Blue\n339 Smart Blue\n340 Peacock Blue\n343 Turquoise Blue\n345 Spectrum Blue\n347 Cobalt Blue\n348 Royal Blue\n349 Ultra Blue\n365 Navy Blue\n368 Prussian Blue\n371 Sky Mist\n379 Smoke Blue\n395 Saxe Blue\n422 Lilac\n429 Rose Pink\n430 Wisteria\n434 Mauve\n436 Fuchsia\n437 Cosmos\n440 Pansy\n441 Violet\n443 Iris\n446 Amethyst\n448 Azalea\n449 Magenta\n460 Indigo\n469 Bordeaux Red\n476 Sea Fog\n481 Grape\n486 Raisin\n495 Rose Grey\n500 White\n501 Soft White\n510 Black\n511 Lamp Black\n521 Warm Grey #1\n522 Warm Grey #2\n523 Warm Grey #3\n524 Warm Grey #4\n525 Warm Grey #5\n526 Warm Grey #6\n531 Cool Grey #1\n532 Cool Grey #2\n533 Cool Grey #3\n534 Cool Grey #4\n535 Cool Grey #5\n536 Cool Grey #6\n600 Gold\n610 Pale Gold\n620 Bronze\n630 Copper\n640 Silver\n650 Antique Silver\n700 Luminous Red\n710 Luminous Rose\n720 Luminous Opera\n730 Luminous Orange\n740 Luminous Lemon\n750 Luminous Green",
+          "summary": "At this price, I had better love them, and I do!",
+          "unixReviewTime": 1478908800
+        }
+      ]
+    },
+    {
+      "asin": "B003ZS335S",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "embroidery",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "12 23, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B003ZS335S",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This was an unexpected surprise. I did not expect the threads to have such luster. I am used to working with cotton/poly serger cones and they do not look anything like this. Too bad they couldn't just fill up the whole box with 64 cones. Oh well, who knows if I will get around to using all the colors in this collection. I will update my review after my embroidery machine arrives.",
+          "summary": "Wow, lovely!",
+          "unixReviewTime": 1419292800
+        }
+      ]
+    },
+    {
+      "asin": "B0042GZGU2",
+      "user_preference_entities": {
+        "Accessories": [
+          {
+            "entity": "small pliers",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "04 2, 2011",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0042GZGU2",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered these to add jump rings to some pendants I bought. They are quite strong and sturdy. You may need small pliers to place them on jewelry. I recommend them.",
+          "summary": "Sturdy and high quality",
+          "unixReviewTime": 1301702400
+        }
+      ]
+    },
+    {
+      "asin": "B004BNAIHW",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "delicate drawings",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "05 4, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B004BNAIHW",
+          "style": {
+            "Size:": " Set",
+            "Color:": " Voyage Set of 4 Travel"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "My only wish is that a size 1 was included in this set. The sizes that are included are still good and useful. I tend to work with delicate drawings, but the size 8 is good for washes. The pointed rounds go back to shape and so far keep a good point.",
+          "summary": "Really nice travel set",
+          "unixReviewTime": 1525392000
+        }
+      ]
+    },
+    {
+      "asin": "B0044JOUCC",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "water brush",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "05 31, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0044JOUCC",
+          "style": {
+            "Size:": " Set of 48"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is an interesting set of 48 colors. There is a good range that become vibrant when water is added. I used a water brush to make my wet and dry swatch chart. The medium dissolved quickly when water was applied but it did take a while to dry. Since the weather is warm, some of my crayons did not ship well. Five were melted, including the infamous moss green. It did feel different from the others, not as creamy. This is an affordable way to indulge in a way to color drawings, especially the water color books.",
+          "summary": "So, what is with the moss green crayon?",
+          "unixReviewTime": 1496188800
+        }
+      ]
+    },
+    {
+      "asin": "B004HE593S",
+      "user_preference_entities": {
+        "Color/Finish": [
+          {
+            "entity": "floral blue print",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "forest green floral print",
+            "sentiment": "negative"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "floral print",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "storage",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "taking anywhere",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "02 2, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B004HE593S",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I looked at this bag on different monitors. They all show a floral blue print. I received a forest green floral print. It is still pretty but I would have preferred the color in the photo. This bag is more for storage than for taking anywhere. I hope it will hold up.",
+          "summary": "Pretty but not what I expected",
+          "unixReviewTime": 1422835200
+        }
+      ]
+    },
+    {
+      "asin": "B004M59O4C",
+      "user_preference_entities": {
+        "Product": [
+          {
+            "entity": "pack",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "watercolor mediums",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "swatching",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "testing",
+            "sentiment": "neutral"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "set of three",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "price",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "05 29, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B004M59O4C",
+          "style": {
+            "Size:": " 3 Pack"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought this pack to use with my watercolor mediums for swatching and testing. The price for a set of three is a good purchase.",
+          "summary": "Good value for the price",
+          "unixReviewTime": 1496016000
+        }
+      ]
+    },
+    {
+      "asin": "B0052PT2U2",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Singer",
+            "sentiment": "positive"
+          }
+        ],
+        "Product": [
+          {
+            "entity": "S10 Studio",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "embroidered project",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "looking at my finished product",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "tension",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "speed",
+            "sentiment": "positive"
+          }
+        ],
+        "Problem": [
+          {
+            "entity": "skips",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "breakage",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "01 23, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0052PT2U2",
+          "reviewerName": "PearlGirl",
+          "reviewText": "These make quite a lovely embroidered project. I never tire of looking at my finished product in the light. I set my Singer S10 Studio embroidery machine tension on 1 and I slowed the speed to 500. I had no problem with skips or breakage. If I didn't have so much, I would buy again!",
+          "summary": "Beautiful sparkle and shine!",
+          "unixReviewTime": 1421971200
+        }
+      ]
+    },
+    {
+      "asin": "B0056AE8G6",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "both sets",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "12 28, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0056AE8G6",
+          "style": {
+            "Color:": " Assorted"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "These colors are quite vivid! I found green particularly intriguing inside the bottle. I tried a variety of nibs and they all write well with these inks. I am glad I ordered both sets and cannot wait to see the colors in that one. Only 24 colors? Someday, maybe there will be more.",
+          "summary": "Love the vibrant colors!",
+          "unixReviewTime": 1482883200
+        }
+      ]
+    },
+    {
+      "asin": "B0052PNUIW",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "spun polyester",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "58 spools",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "60 spools",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "fuzzy",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "general purpose thread",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "repair jobs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "variety of colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "extra two spools",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "repair jobs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "burn test",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "03 2, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0052PNUIW",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought this as a warehouse item for much less than the listed price. I am glad I did because all I wanted was a stash of general purpose thread for small projects and repair jobs. This is advertised as 58 spools but I got 60 in my batch which fills up the box nicely. It is spun polyester and it is fuzzy. I did a burn test and it lit up way too fast to have much cotton on it. When I pulled a thread it broke easily. Not the best quality but it will fit my needs for emergencies. I gave it 4 stars for the variety of colors and the extra two spools.",
+          "summary": "Fits my needs",
+          "unixReviewTime": 1425254400
+        }
+      ]
+    },
+    {
+      "asin": "B0052PPJI6",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "ThreadsRus",
+            "sentiment": "neutral"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "Silver",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "White Gold",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Antique Gold",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Light Brown",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Copper",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Cherry Pink",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Fuschia",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Red",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Light Green",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Christmas Green",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Dark Green",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Sky Blue",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Deep Sea Blue",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Navy Blue",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Black",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Gold",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Ornament Gold",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Purple",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Lilac",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "Dark Multicolor (Red/Blue/Gold)",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "9",
+          "verified": true,
+          "reviewTime": "01 8, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B0052PPJI6",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a lovely selection of colors but by no means inclusive. I would like to see what other colors ThreadsRus has available in metallic. Here is a list of the colors with asterisks by my favorites:\n\nS01 Silver\nS02 White Gold*\nS16 Antique Gold\nS17 Light Brown\nS20 Copper\nS22 Cherry Pink*\nS23 Fuschia*\nS24 Red\nS28 Light Green\nS29 Christmas Green*\nS30 Dark Green\nS31 Sky Blue*\nS33 Deep Sea Blue\nS34 Navy Blue\nS36 Black\nS48 Gold\nS54 Ornament Gold\nS60 Dark Multicolor (Red/Blue/Gold)\nS113 Purple*\nS121 Lilac*",
+          "summary": "Very nice selection",
+          "unixReviewTime": 1420675200
+        }
+      ]
+    },
+    {
+      "asin": "B005M4UXII",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "fabric",
+            "sentiment": "negative"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "white",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "ecru",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "12 12, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B005M4UXII",
+          "style": {
+            "Design:": " Birds and Berries"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "The order arrived in good condition. However, the picture shows a white fabric and the kit actually has ecru fabric. I think this color scheme would look so much better in white.",
+          "summary": "Nice but not the color expected",
+          "unixReviewTime": 1386806400
+        }
+      ]
+    },
+    {
+      "asin": "B005P1UZEA",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "gamsol",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "wax-based pencils",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "beginner to using gamsol",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "manipulate the medium",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "watched YouTube videos",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "07 25, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B005P1UZEA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a great kit for a beginner to using gamsol. I watched a few YouTube videos to get ideas of how to best use this. I have several sets of wax-based pencils and this will offer an option of how I want to manipulate the medium.",
+          "summary": "Great kit!",
+          "unixReviewTime": 1500940800
+        }
+      ]
+    },
+    {
+      "asin": "B005TL10AY",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "seller",
+            "sentiment": "positive"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "right size",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "traveling",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "quick repair jobs",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "stitches",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "bobbin",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "machine",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "refund",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "03 5, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B005TL10AY",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I wanted so much for my machine to work. It is just the right size for traveling and for quick repair jobs. The stitches are basic but I didn't need much more for this machine. But, I just could not get the bobbin to act right. The seller was prompt in refunding my money. I still feel bad because I really like this machine.",
+          "summary": "Love everything about it but,...",
+          "unixReviewTime": 1425513600
+        }
+      ]
+    },
+    {
+      "asin": "B007J5YBTK",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "on hold",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "negative",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "05 3, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B007J5YBTK",
+          "style": {
+            "Size:": " Single Half Pan",
+            "Color:": " Opera Rose"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "The price I paid for a single half pan was way too high, but the actual color is gorgeous. I had read somewhere that the color was on hold because of quality issues. I have one tube and this half pan. The half pan is by far much better than the tube. The color is so creamy and it goes down on paper so smoothly. I really love this color.",
+          "summary": "Gorgeous but expensive",
+          "unixReviewTime": 1525305600
+        }
+      ]
+    },
+    {
+      "asin": "B005Z43U1C",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "iridescent medium",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "writing inks",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "watercolor paints",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "shimmer",
+            "sentiment": "positive"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "does not take much",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "iridescent",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "gold",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "silver",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "any color scheme",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "add shimmer to my writing inks",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "used in just about any color scheme",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "blends well",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "neither gold nor silver",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "does not take much",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "simple shake reconstitutes the shimmer",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "shake",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "reconstitute",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "04 29, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B005Z43U1C",
+          "style": {
+            "Size:": " 75ml",
+            "Style Name:": " Iridescent Medium"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I purchased the iridescent medium to add shimmer to my writing inks and watercolor paints. This blends well with everything I have. The shimmer is neither gold nor silver, so it can be used in just about any color scheme. It does not take much and a simple shake reconstitutes the shimmer.",
+          "summary": "Love it!",
+          "unixReviewTime": 1493424000
+        }
+      ]
+    },
+    {
+      "asin": "B00ADT9O3W",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "wood",
+            "sentiment": "negative"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "pastel",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "coloring",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "fabulous",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "03 21, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00ADT9O3W",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Although I love the wood box, I would have gladly done without it to save on the price of these fabulous pastel pencils. I love coloring with pastels and these are just divine.",
+          "summary": "Just divine!",
+          "unixReviewTime": 1521590400
+        }
+      ]
+    },
+    {
+      "asin": "B009F29EBU",
+      "user_preference_entities": {
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "01 8, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B009F29EBU",
+          "reviewerName": "PearlGirl",
+          "reviewText": "The picture makes the thread look more pink. My thread looks more lilac in a certain light. 700m is quite a lot. Although the unused thread is plastic wrapped, the dome cap is a nice touch. I will update when I stitch something.\n\n01/12 update: I stitched a quilt block pattern with this thread and the result was stunning. I watched a Nancy Zeimen video on YouTube about embellishing with embroidery using metallic thread. A good polyester can personalize a garment wonderfully, but using metallic thread can transform it into a greater work of art. The way metallic thread catches light cannot be matched by a polyester or a rayon. I highly recommend using this thread or whatever brand you prefer.",
+          "summary": "Not quite like the photo but still pretty",
+          "unixReviewTime": 1420675200
+        }
+      ]
+    },
+    {
+      "asin": "B00B9F21CA",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "card set",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "poly-cotton",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "metallic",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "color samples",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "collecting threads",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "sites",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "4",
+          "verified": true,
+          "reviewTime": "01 13, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00B9F21CA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "If you are addicted or obssessed with collecting threads, this card set is an enabler. This card set contains all of the poly-cotton and metallic numbers to correspond with color samples. I have started collecting the metallics and wii see how many of the rest I can get if I can sites that offer collections.",
+          "summary": "Must have for thread addicts!",
+          "unixReviewTime": 1421107200
+        }
+      ]
+    },
+    {
+      "asin": "B00AE25BI0",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Hong Kong",
+            "sentiment": "neutral"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "delivery time",
+            "sentiment": "neutral"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "order",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "gold",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "spring",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "shine",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "craft needs",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "quality",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "size",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "clasps",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "01 29, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00AE25BI0",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I received my order on time, which was still a long time but that is how they estimate delivery. Mine came from Hong Kong. The clasps I received are beautiful with a great shine. No gold flaking and the spring is sturdy. I tested most of what was in the bag. These were already very inexpensive, so the quality is much better than I expected and the size is just right for my craft needs. Great purchase.",
+          "summary": "Did I get lucky?",
+          "unixReviewTime": 1390953600
+        }
+      ]
+    },
+    {
+      "asin": "B00BIBQZVI",
+      "user_preference_entities": {
+        "Quantity": [
+          {
+            "entity": "100",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "designs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "CD",
+            "sentiment": "neutral"
+          }
+        ],
+        "Brand": [
+          {
+            "entity": "Win Explorer",
+            "sentiment": "neutral"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "autorun.exe",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "proprietary software",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "thread chart pdf",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "tablet",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "4",
+          "verified": true,
+          "reviewTime": "01 31, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00BIBQZVI",
+          "reviewerName": "PearlGirl",
+          "reviewText": "There are actually 100 designs on this CD, not different sizes of the same design. In order to see the collection, you must open the CD with Win Explorer, then select autorun.exe and open the thread chart pdf. This is handy to keep on my tablet. I deducted a star because none of the files can be viewed without proprietary software.",
+          "summary": "Lovely collection",
+          "unixReviewTime": 1422662400
+        }
+      ]
+    },
+    {
+      "asin": "B00BIC08QU",
+      "user_preference_entities": {
+        "Quantity": [
+          {
+            "entity": "100 designs",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "design",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "Win Explorer",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "autorun.exe",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "tablet",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "01 31, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00BIC08QU",
+          "reviewerName": "PearlGirl",
+          "reviewText": "There are actually 100 designs on this CD, not different sizes of the same design. In order to see the collection, you must open the CD with Win Explorer, then select autorun.exe and open the thread chart pdf. This is handy to keep on my tablet. I deducted a star because none of the files can be viewed without proprietary software.",
+          "summary": "Beautiful collection",
+          "unixReviewTime": 1422662400
+        }
+      ]
+    },
+    {
+      "asin": "B00BIDB0RK",
+      "user_preference_entities": {
+        "Quantity": [
+          {
+            "entity": "100 designs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "designs",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "handy to keep on my tablet",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "Win Explorer",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "autorun.exe",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "proprietary software",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "01 31, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00BIDB0RK",
+          "reviewerName": "PearlGirl",
+          "reviewText": "There are actually 100 designs on this CD, not different sizes of the same design. In order to see the collection, you must open the CD with Win Explorer, then select autorun.exe and open the thread chart pdf. This is handy to keep on my tablet. I deducted a star because none of the files can be viewed without proprietary software.",
+          "summary": "Beautiful collection",
+          "unixReviewTime": 1422662400
+        }
+      ]
+    },
+    {
+      "asin": "B00BYL2W28",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "embossed sheet",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "lace sheet",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "off white",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "ecru",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "2",
+          "verified": false,
+          "reviewTime": "11 13, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00BYL2W28",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I was blown away when I received these in the mail. There are endless possibilities in using these layers. You get two colors, off white and ecru. Each set is one embossed sheet and one lace sheet to match, 12 sheets total. I cannot wait to begin using these!",
+          "summary": "Beautiful!",
+          "unixReviewTime": 1415836800
+        }
+      ]
+    },
+    {
+      "asin": "B00BYL3D7Q",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "cards",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": false,
+          "reviewTime": "11 13, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00BYL3D7Q",
+          "reviewerName": "PearlGirl",
+          "reviewText": "These are very nice for making cards to give for any occasion. Don't let the silver embossing make you use these only during the holidays. These should be used to make any event more festive. My plan is to cut a window in the center and make an embroidered motif. Beading and quilling also are great ways to show off your ability.",
+          "summary": "One color, four backgrounds, many possibilities",
+          "unixReviewTime": 1415836800
+        }
+      ]
+    },
+    {
+      "asin": "B00CXK8CIW",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "DMC",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "sailcloth",
+            "sentiment": "positive"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "finished size",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "4 kits",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "7 kits",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "pattern",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "cross-stitch",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "14",
+          "verified": true,
+          "reviewTime": "11 3, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00CXK8CIW",
+          "reviewerName": "PearlGirl",
+          "reviewText": "At first, I didn't think the measurements of the finished size of this kit was accurate. It is! I was also skeptical about what kind of thread would be in the kit. I do not think they are DMC but they are comparable in quality and color. The sailcloth is stamped with the pattern and there is a tag at the bottom so you can tell which is the front. When this is done, it will be more than suitable for framing and mounting on the wall. I ordered 4 kits from this company but ended up getting 7 because one kit consists of four motifs and they are all large. I can't wait to get started on these.",
+          "summary": "Anxious to get started!",
+          "unixReviewTime": 1383436800
+        }
+      ]
+    },
+    {
+      "asin": "B00CRXUPOO",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "cross-stitch",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "11 3, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00CRXUPOO",
+          "reviewerName": "PearlGirl",
+          "reviewText": "At first, I didn't think the measurements of the finished size of this kit was accurate. It is! I was also skeptical about what kind of thread would be in the kit. I do not think they are DMC but they are comparable in quality and color. The sailcloth is stamped with the pattern and there is a tag at the bottom so you can tell which is the front. When this is done, it will be more than suitable for framing and mounting on the wall. I ordered 4 kits from this company but ended up getting 7 because this kit consists of four motifs and they are all large. I can't wait to get started on these.",
+          "summary": "Anxious to get started!",
+          "unixReviewTime": 1383436800
+        }
+      ]
+    },
+    {
+      "asin": "B00CZ7A0Z6",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "burn test",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "11 3, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00CZ7A0Z6",
+          "reviewerName": "PearlGirl",
+          "reviewText": "At first, I didn't think the measurements of the finished size of this kit was accurate. It is! I was also skeptical about what kind of silk thread would be in the kit. I performed a burn test on one strand and it passed. I was surprised! The colors are more brilliant than any cotton or satin rayon cross stitch thread, and the thread is so soft. The sailcloth is stamped with the pattern and there is a tag at the bottom so you can tell which the front. When this is done, it will be more than suitable for framing and mounting on the wall. I ordered 4 kits from this company but ended up getting 7 because one kit consists of four motifs. I can't wait to get started on these.",
+          "summary": "Anxious to get started!",
+          "unixReviewTime": 1383436800
+        }
+      ]
+    },
+    {
+      "asin": "B00E89M3K4",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "unraveling",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "20",
+          "verified": true,
+          "reviewTime": "05 19, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00E89M3K4",
+          "style": {
+            "Color:": " Sewing thread"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "This kit is only for quick repair jobs like the hem of my trousers unraveling while I am out and about. The colors are nice and it is such a wide variety including silver and gold metallic. A great kit to have for emergencies.",
+          "summary": "Good for the job I wanted done",
+          "unixReviewTime": 1400457600
+        }
+      ]
+    },
+    {
+      "asin": "B00CXL9EZQ",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "burn test",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "11 3, 2013",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00CXL9EZQ",
+          "reviewerName": "PearlGirl",
+          "reviewText": "At first, I didn't think the measurements of the finished size of this kit was accurate. It is! I was also skeptical about what kind of silk thread would be in the kit. I performed a burn test on one strand and it passed. I was surprised! The colors are more brilliant than any cotton or satin rayon cross stitch thread, and the thread is so soft. The sailcloth is stamped with the pattern and there is a tag at the bottom so you can tell which the front. When this is done, it will be more than suitable for framing and mounting on the wall. This kit also came with two ink pen inserts, a thread cutter, a seam ripper and two threaders. I ordered 4 kits from this company but ended up getting 7 because one kit consists of four motifs. I can't wait to get started on these.",
+          "summary": "Anxious to get started!",
+          "unixReviewTime": 1383436800
+        }
+      ]
+    },
+    {
+      "asin": "B00DMHL9BM",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "rayon",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "white",
+            "sentiment": "neutral"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "1000 meter",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "1100 yard",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "1500 meters",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "220 yards",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "80",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "40",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "two",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "threader",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": false,
+          "reviewTime": "07 29, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00DMHL9BM",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I did not purchase mine here but I like the box so much that I wanted to share my thoughts. I compared the 80 rayon spool box with this box and this is definitely the better deal, unless you want more variety of color and don't mind getting much less thread. The selection included with this box covers the spectrum. You are getting 40 1000 meter/1100 yard spools, plus two white bobbinfill spools at 1500 meters each. Compare that to the 80 spool box, each spool has only 220 yards. I doubt I will use the box as a threader, but it could come in handy someday.",
+          "summary": "Great for the price!",
+          "unixReviewTime": 1438128000
+        }
+      ]
+    },
+    {
+      "asin": "B00FHKRP2O",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "photo",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "01 14, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00FHKRP2O",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I was hoping for the color in the photo, which has more of a white base to the gold. What I received is much darker.",
+          "summary": "Nice color but what I wanted",
+          "unixReviewTime": 1421193600
+        }
+      ]
+    },
+    {
+      "asin": "B00H137W0A",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "mesh",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "sheep",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "separate piece",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "mesh strainer",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "base",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "holes",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "larger hole",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "tea",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "tea",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "collector's item",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 3.0,
+          "verified": true,
+          "reviewTime": "02 5, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00H137W0A",
+          "reviewerName": "PearlGirl",
+          "reviewText": "The top is a separate piece and has a mesh strainer on the bottom which sits inside the base which is the sheep part. At the top and inside of the base there are three tiny holes. At the bottom of the base there is a larger hole. I think I am supposed to set the whole thing over a large cup and pour the tea through the top. I think I will let this remain a collector's item unless I get more information about how to properly use it.",
+          "summary": "Should come with instructions",
+          "unixReviewTime": 1391558400
+        }
+      ]
+    },
+    {
+      "asin": "B00IXWLWMM",
+      "user_preference_entities": {
+        "Activity": [
+          {
+            "entity": "sewing",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "needlecrafts",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "sewing/embroidery machine",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "carrying case",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "07 30, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00IXWLWMM",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a nice collection. I wanted items mainly geared toward sewing and needlecrafts. I will use these to decorate my sewing/embroidery machine and carrying case.",
+          "summary": "A nice collection",
+          "unixReviewTime": 1532908800
+        }
+      ]
+    },
+    {
+      "asin": "B00H5X8COG",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "thread",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "plenty of thread per spool",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "51 cones",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "50 usable cones",
+            "sentiment": "negative"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colors",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "gorgeous",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "sew at a slower speed",
+            "sentiment": "negative"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "sewing",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 2.0,
+          "vote": "3",
+          "verified": true,
+          "reviewTime": "08 12, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00H5X8COG",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a nice selection and there is plenty of thread per spool. I had to throw one away because it was covered with dirt (?) and was discolored. It looked like a mouse might have been at it. I took the time to count them and I received only 51 cones. So, I got 50 usable cones. Some colors are gorgeous but as one reviewer mentioned, the thread is weak. I will have to sew at a much slower speed to get any use from these. Since I was shorted 9 cones, I will not order these again.",
+          "summary": "OK for the price if you receive the full amount advertised",
+          "unixReviewTime": 1439337600
+        }
+      ]
+    },
+    {
+      "asin": "B00H5XHYQI",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "variegated threads",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colors",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "stitch out",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "embroidery",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "embroidery",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "stitch out",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "02 23, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00H5XHYQI",
+          "reviewerName": "PearlGirl",
+          "reviewText": "A very nice selection of colors! I love to play with variegated threads in my embroidery. It will be interesting to see how these stitch out.",
+          "summary": "Very nice!",
+          "unixReviewTime": 1424649600
+        }
+      ]
+    },
+    {
+      "asin": "B00II5CUIO",
+      "user_preference_entities": {
+        "Color/Finish": [
+          {
+            "entity": "color",
+            "sentiment": "positive"
+          }
+        ],
+        "Brand": [
+          {
+            "entity": "Zig collection",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "water brush markers",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "06 2, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00II5CUIO",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is one of my favorite colors in the Zig collection. I think these are the best water brush markers available.",
+          "summary": "Love the color!",
+          "unixReviewTime": 1496361600
+        }
+      ]
+    },
+    {
+      "asin": "B00JBI05L6",
+      "user_preference_entities": {
+        "Usage": [
+          {
+            "entity": "hoop",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "XL-580",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "fabrics",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "08 1, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00JBI05L6",
+          "reviewerName": "PearlGirl",
+          "reviewText": "My hoop arrived in good condition. It will definitely tighten enough to secure the fabrics I use in my XL-580.",
+          "summary": "Glad to have it in my hoop set",
+          "unixReviewTime": 1438387200
+        }
+      ]
+    },
+    {
+      "asin": "B00MRTCPW8",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "oil pastels",
+            "sentiment": "neutral"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "size 0",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "11 20, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00MRTCPW8",
+          "style": {
+            "Size:": " Size0"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I got the size 0 to use with oil pastels. These are just right.",
+          "summary": "Perfect size for my oil pastel work",
+          "unixReviewTime": 1511136000
+        }
+      ]
+    },
+    {
+      "asin": "B00MVILT36",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "fountain pen ink colors",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "watercolor pencils",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "spreading",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "blending",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "cleaning up colors",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "04 25, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00MVILT36",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I tried this on unblendable fountain pen ink colors. The brush will pick up color but won't blend. I used this to spread color and clean up some ragged edges on my colors. I then used it on watercolor pencils and it did blend but not as well as I hoped. It does pick up a little color. It seems better at cleaning up ragged edges on my coloring work, Overall it is useful for spreading, blending and cleaning up colors.",
+          "summary": "A good blender",
+          "unixReviewTime": 1493078400
+        }
+      ]
+    },
+    {
+      "asin": "B00KAYDYE0",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "tension adjustment",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "4",
+          "verified": false,
+          "reviewTime": "12 26, 2014",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00KAYDYE0",
+          "style": {
+            "Style Name:": " S10 Embroidery Machine"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I was delighted when this item appeared in my queue. It arrived Dec 24th, just in time to play with it during the long weekend. I am a crafter and a tekkie. Computerized sewing and embroidery machines combine both worlds. I have an old New Home Memory Craft 5000. It's great for sewing but embroidery can be cumbersome. This machine is up-to-date with a USB stick on which to save my own designs along with the collection stored in the machine. I used the Kolors Embroidery 20 Spools White & Black Embroidery Machine Thread for my bobbin and one of the greens from my ThreadNanny 25 Spools Varigated Poly Machine Embroidery Thread collection. I practiced with a piece of muslin with lightweight stabilizer and stitched out the safety pin design. I tried it twice using each hoop and both times it skipped a stitch in the same place. I will play with the tension to prevent that from happening again. I cannot follow the tutorials on the machine so I watch the YouTube videos which are quite good quality. If one wishes to purchase a carrying case or tote, the actual dimensions of my machine are 19\" long x 12\" high x 12\" deep. The included accessories are of good quality. The scissors seem cheap but they are quite sharp and adequate for snipping threads. Nice as this machine is, I wanted to deduct one star because there were no samples of thread, material and stabilizer to practice with when I received the machine. Also, the Singerco web site does not list any accessories or replacement parts. A reviewer noted that we can use the Janome MC200E as a reference for compatible parts. Overall, it is a great machine for someone who is between beginner and intermediate skills.",
+          "summary": "Great beyond entry-level machine!",
+          "unixReviewTime": 1419552000
+        }
+      ]
+    },
+    {
+      "asin": "B00MCZM93W",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "bobbin winder",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "7",
+          "verified": false,
+          "reviewTime": "12 2, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00MCZM93W",
+          "style": {
+            "Style Name:": " 250 Designs"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I wanted a really good high end embroidery machine that did not cost as much as a small car. This machine is comparable to the much more expensive high-end brands. The difference is that Singer cut the cost by letting all the design work be done on the laptop or PC instead of in the machine. It is easy enough to transfer designs using the USB stick. The variety of embroidery hoop sizes is nice and the endless embroidery hoop is a great addition. The software on the provided USB stick is easy to install and use. I own the BuzzTools editing software, which I bought on this site. One other thing I added was something called the Magic Bobbin Genie, which I also purchased here. It is a little silicone disc that is placed inside the bobbin case under the bobbin for a smoother feed while sewing or embroidering. It is easy to switch between the sewing bed and the embroidery unit. The bobbin winder worked perfectly and I am happy to have the option of using the knee arm attachment to run the machine. There are lots of videos on the Singer web site and YouTube. If you need a carrying case, the whole assembly will fit inside a two-piece trolley set. I liked the blue floral. My only complaint is the inconsistency of Singer customer support. Once I wrote them with a question about an attachment and they responded within a reasonable time, plus they gave me great information. I wrote them again with a question about this machine and I never heard from them. This has a large footprint and it is heavy, but I highly recommend this machine if you are serious about sewing and machine embroidery but need to live within a budget.",
+          "summary": "Beyond beginner level, great machine for the budget-minded",
+          "unixReviewTime": 1449014400
+        }
+      ]
+    },
+    {
+      "asin": "B00O35MNC6",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "band",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": false,
+          "reviewTime": "03 10, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00O35MNC6",
+          "style": {
+            "Size:": " Medium"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "This book is just the right size for a beginner or casual user. I like to play with basic watercolor and pencils. The paper seems thick enough for my needs. I use only a small amount of water to get the effect I want and it has not yet bled through. The band on the book is nice to keep the pages closed, although I wish they could use a different color.",
+          "summary": "Good for a casual or beginner artist",
+          "unixReviewTime": 1457568000
+        }
+      ]
+    },
+    {
+      "asin": "B00OTXTWD0",
+      "user_preference_entities": {
+        "Usage": [
+          {
+            "entity": "embroidery enthusiasts",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "hoops",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "hardware",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "multiple hoop seat set",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "06 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00OTXTWD0",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Very easy to assemble and plenty of hardware for both round and square hoops. I ordered this to go with the multiple hoop seat set.",
+          "summary": "A useful tool for embroidery enthusiasts",
+          "unixReviewTime": 1529020800
+        }
+      ]
+    },
+    {
+      "asin": "B00P0ZW274",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "hand issues",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "06 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00P0ZW274",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered this to help me continue my hand embroidery despite my hand issues. It was easy to assemble and there is plenty of hardware for all three hoops. I also ordered the versatile clamp in case I want to use a square hoop some day. I deducted one star because it works well on a sofa or wide seat chair. It does not work well on short seat chairs. Overall, it is a useful tool for embroidery enthusiasts.",
+          "summary": "A useful tool for embroidery enthusiasts",
+          "unixReviewTime": 1529020800
+        }
+      ]
+    },
+    {
+      "asin": "B00MNZXXK4",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "5 grooves",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "61",
+          "verified": true,
+          "reviewTime": "08 18, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00MNZXXK4",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Embroidex must have listened to the customers because the product I received is great. I have all 32 feet inside its own spot in foam and a plastic case. The instructions are in english and have pictures with the names and descriptions of how to use each foot. That helps a lot because I have not heard of most of these. I have a Singer Futura XL 580 and I cannot wait to try these out. Here is the list of what I got:\n\nBraiding Foot  Satin Stitch Foot\nFringe Foot  Jaguar/All Purpose Foot\n5 Hole Cording Foot  7 Hole Cording Foot\nEdge Joining Foot  1/4\" Quilting Foot\nStraight Stitch Foot  Open Toe Embroidery Foot\nRound Bead Foot  Zigzag Foot\nCording Foot  1/4\" Quilting Foot with edge\nOvercast Foot  Stitch Guide Foot\nDouble Welting Foot  Invisible Zipper Foot\nRoller Foot  Blind Stitch Foot\nAppliqu Foot  Open Toe Foot\nShirring Foot  Darning Foot\nKnit Foot  Zipper Foot\nHemmer Foot  1/8\" Round Hemmer Foot\nDarning foot Low Shank  Adjustable Bias Tape Binder Foot\nPintuck Foot 5 grooves  Pintuck Foot 9 grooves",
+          "summary": "Great value for this collection",
+          "unixReviewTime": 1439856000
+        }
+      ]
+    },
+    {
+      "asin": "B00PEJIXLU",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "needle artist",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": false,
+          "reviewTime": "03 2, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00PEJIXLU",
+          "style": {
+            "Color:": " Alice's Secret Garden"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "A good size pin cushion that fits perfectly on my wrist. I like the pink/rose/lavender pattern. It also came with a small rose sachet. This would be a nice gift for a needle artist.",
+          "summary": "Pretty and useful!",
+          "unixReviewTime": 1425254400
+        }
+      ]
+    },
+    {
+      "asin": "B00P6IS2YC",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "redwork designs",
+            "sentiment": "positive"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "variegated threads",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "metallic threads",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "metallic colors",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "Christmas tree theme",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "traditional theme",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "winter motif",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "build on a traditional theme",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "create something unique",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "practice",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "08 7, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00P6IS2YC",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This redwork designs CD contains some patterns on the Christmas tree theme. The simple designs lend themselves to further creativity and work especially well with variegated and metallic threads. I've practiced with some beautiful metallic colors. You can build on a traditional theme or create something unique. Also, there are more free patterns in all formats to complete your winter motif. The price is right for this product.",
+          "summary": "Simple patterns to build on",
+          "unixReviewTime": 1438905600
+        }
+      ]
+    },
+    {
+      "asin": "B00SPZZ6JM",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "this",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "92000 programs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "patterns",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "designs",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "embroidery editor programs",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "machine",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "low price",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "formats",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "disks",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "embroidery",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "06 5, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00SPZZ6JM",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered both this and the 92000 programs and there are so many patterns that it is hard to know where to begin. I could not touch this many designs at such a low price. There are several free embroidery editor programs included because all the formats are on these disks. Just edit and save in the format your machine uses. Unfortunately the table of contents pages were not formatted well so they are hard to read. The catalog pages are easier to thumb through but the photos are small. Still, for the money it is a great bargain.",
+          "summary": "Great collection-love the florals",
+          "unixReviewTime": 1528156800
+        }
+      ]
+    },
+    {
+      "asin": "B00TYNY0FA",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "high quality materials",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "a lot more color",
+            "sentiment": "negative"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "browns",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "lighter colors",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "darker colors",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "watercolor pencils",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "coloring animal fur",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "good range of light to dark",
+            "sentiment": "positive"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "people drawings",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "03 22, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00TYNY0FA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "These are a nice set of watercolor pencils. They are not constructed with high quality materials but the colors lay down well. However, the lighter colors require a lot more color than the darker colors when wetted. There is a good range of light to dark. I rarely work with people drawings, so these will be used for coloring animal fur.",
+          "summary": "Nice range of browns",
+          "unixReviewTime": 1458604800
+        }
+      ]
+    },
+    {
+      "asin": "B00ULH76KE",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "save",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "06 5, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00ULH76KE",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I ordered both this and the 60000 programs and there are so many patterns that it is hard to know where to begin. I could not touch this many designs at such a low price. There are several free embroidery editor programs included because all the formats are on these disks. Just edit and save in the format your machine uses. Unfortunately the table of contents pages were not formatted well so they are hard to read. The catalog pages are easier to thumb through but the photos are small. Still, for the money it is a great bargain.",
+          "summary": "So many designs at a bargain price",
+          "unixReviewTime": 1528156800
+        }
+      ]
+    },
+    {
+      "asin": "B00UD6KTDO",
+      "user_preference_entities": {
+        "Selling Point": [
+          {
+            "entity": "good value",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "water soluble",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "11 9, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00UD6KTDO",
+          "reviewerName": "PearlGirl",
+          "reviewText": "These are really nice on paper. For this price, they are a good value, especially since they are water soluble. I like having options with my coloring tools. They leave a lovely sheen.",
+          "summary": "Messy, but oh-so-pretty!",
+          "unixReviewTime": 1510185600
+        }
+      ]
+    },
+    {
+      "asin": "B00SW39OCC",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Brother",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "bobbins",
+            "sentiment": "neutral"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "footprint",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "4x4 work space",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "5x7 hoop",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "two-prong power cord",
+            "sentiment": "neutral"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "three full bobbins",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "two empty bobbins",
+            "sentiment": "neutral"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colorful",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "vivid",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "decor",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "backlit computer space",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "mature drawings",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "kiddie designs",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "instructions",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "booklets",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "USB flash drive slot",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "update the firmware",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "clear instructions",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "multilingual booklets",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "numbered steps",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "ability to cancel designs",
+            "sentiment": "positive"
+          }
+        ],
+        "Safety/Certification": [
+          {
+            "entity": "three-prong plug",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "instructions",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "booklets",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "USB flash drive",
+            "sentiment": "neutral"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "embroidery",
+            "sentiment": "neutral"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "touch screen",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": false,
+          "reviewTime": "05 8, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00SW39OCC",
+          "style": {
+            "Style:": " PE535"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "The PE535 is a big change from my older embroidery machines. The first thing I noticed was how colorful the unit was. The decor on the body and the backlit computer space were vivid. The accompanying instructions were very clear. The unit has a much smaller footprint than my older Brother ULT-2002D. The 4x4 work space is not as small as some claim, but my designs will not be that large. If I want to embroider something larger, there is a 5x7 hoop available. Three full bobbins and two empty bobbins were included so I could begin embroidering right away. If I need to cancel a design in progress, I can touch the screen to cancel. Every step of the paths for filling a bobbin and threading the machine were numbered to easily follow. The booklets are in multiple languages and there is a separate booklet of all the installed designs and suggestions for combining them into lovely new designs. Thankfully most of the designs are mature drawings and there are enough kiddie designs to satisfy. I was surprised that the power cord was two-prong instead of three. This makes it much easier to plan my work space because not all my walls does have a three-prong plug. The USB flash drive slot can transfer new designs but the drive should be cleared if you want to update the firmware. One negative is that there is no outside drawer to store the tools.",
+          "summary": "Great machine!",
+          "unixReviewTime": 1525737600
+        }
+      ]
+    },
+    {
+      "asin": "B00VWMWXRS",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Brother",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "metallic threads",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "poly thread",
+            "sentiment": "positive"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "cones",
+            "sentiment": "negative"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "30 solids",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "2 variegated",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "solids",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "variegated",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "embroidery machine",
+            "sentiment": "neutral"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "free gift",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "bobbins",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "08 18, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00VWMWXRS",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I love to play with the metallic threads on my embroidery machine. This is a nice selection of colors: 30 solids and 2 variegated. The cones are very small, though. My \"free gift\" was not included.\n\n08/21 update: the seller sent me an email apologizing for the free gift not being included with my order. They will send it soon.\n\n09/04 update: I received the bobbins. They are universal bobbins filled with high sheen poly thread. I should be able to use these in my Brother machine.",
+          "summary": "Good starter set",
+          "unixReviewTime": 1439856000
+        }
+      ]
+    },
+    {
+      "asin": "B00VF21D2Q",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "metallic",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "08 18, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00VF21D2Q",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is an interesting collection of doodle like flowers that lend themselves to all sorts of designs if a person is creative enough. They would probably look striking in metallic. I will find out soon.",
+          "summary": "Interesting",
+          "unixReviewTime": 1439856000
+        }
+      ]
+    },
+    {
+      "asin": "B00WT5VK62",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "consistency",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "negative",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "04 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00WT5VK62",
+          "style": {
+            "Style Name:": " Primatek Introductory Pack"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is an interesting set. Not all have the same consistency or sparkle. Amethyst is my favorite. It has a really nice shimmering undertone.",
+          "summary": "Nice set of colors",
+          "unixReviewTime": 1523750400
+        }
+      ]
+    },
+    {
+      "asin": "B00W7BNIOK",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "blend",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "02 7, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00W7BNIOK",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I wavered between a 4 or a 5 rating because, although the colors are great, the pen body is a different shade than the ink. The pen body are pastel but the ink is much darker. Still, the ink is fluid and would allow for laying it down and following up with a brush to blend for more detailed  work. I would buy these again. Highly recommended for adult coloring books.",
+          "summary": "Really nice fluid ink",
+          "unixReviewTime": 1454803200
+        }
+      ]
+    },
+    {
+      "asin": "B00WAVX9LY",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "sample cone",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 3.0,
+          "vote": "4",
+          "verified": true,
+          "reviewTime": "08 18, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00WAVX9LY",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is a nice selection of colors. I even like the green. However, I also received a sample cone of very light peach embroidery thread and 5 bobbins.",
+          "summary": "Nice selection",
+          "unixReviewTime": 1439856000
+        }
+      ]
+    },
+    {
+      "asin": "B013TBUGVO",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Sennelier",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "Strong colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "creamy",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "05 8, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B013TBUGVO",
+          "style": {
+            "Color:": " Multicolor"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "These compare highly with Sennelier. I am pleased with how vibrant the colors are.",
+          "summary": "Strong colors that lay down creamy",
+          "unixReviewTime": 1525737600
+        }
+      ]
+    },
+    {
+      "asin": "B00ZSQX63O",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "blend colors",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "negative",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 3.0,
+          "vote": "14",
+          "verified": false,
+          "reviewTime": "10 8, 2015",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B00ZSQX63O",
+          "style": {
+            "Style Name:": " Stamp Kit"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I tend to like all sorts of electronic toys, but this one leaves me skeptical about whether I would have bought this. I have a huge rubber stamp collection. However, if I wanted to make something unique that I know no one else will have, then this would be perfect for that. There are not yet a wide variety of inks available, and it is hard to blend colors outside the bottles. This hobby will get expensive in a hurry if you do a lot of stamping and need to buy additional supplies. It could be a lot of fun and helpful for those who want the ability to create something special. The software was easy to download and install. I was using it within minutes on my Toshiba laptop using an AMD processor and running Windows 10. Overall, this is for the creative mind who wants to make a special stamp.",
+          "summary": "Nice change for stamping hobbyists",
+          "unixReviewTime": 1444262400
+        }
+      ]
+    },
+    {
+      "asin": "B014X5C4E2",
+      "user_preference_entities": {
+        "Activity": [
+          {
+            "entity": "embroidery machines",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "snipping loose threads",
+            "sentiment": "neutral"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "snipping loose threads",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "06 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B014X5C4E2",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Very sharp scissors that are best with embroidery machines for snipping loose threads",
+          "summary": "Sharp an useful",
+          "unixReviewTime": 1529020800
+        }
+      ]
+    },
+    {
+      "asin": "B013TBUJY8",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Sennelier",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "vibrant colors",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "DS colors",
+            "sentiment": "negative"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "DS colors",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "High quality",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "High quality",
+            "sentiment": "positive"
+          }
+        ],
+        "Sentiment": [
+          {
+            "entity": "nice set",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "05 8, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B013TBUJY8",
+          "style": {
+            "Color:": " Multicolor"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "These compare highly with Sennelier. I am pleased with how vibrant the colors are. They are not my favorite DS colors, but they are still a nice set.",
+          "summary": "High quality, vibrant colors",
+          "unixReviewTime": 1525737600
+        }
+      ]
+    },
+    {
+      "asin": "B016OB6LGA",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "Mungyo",
+            "sentiment": "positive"
+          }
+        ],
+        "Color/Finish": [
+          {
+            "entity": "colors",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "metallic sheen",
+            "sentiment": "negative"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "metallic sheen",
+            "sentiment": "negative"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "sheen",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 3.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "11 9, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B016OB6LGA",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I cannot see a metallic sheen with these pastels. The colors are pretty, though. If you want a product that will leave a decent sheen at this price, try the Mungyo pearl oil pastels. Their sheen is really pretty.",
+          "summary": "Not much sheen on paper",
+          "unixReviewTime": 1510185600
+        }
+      ]
+    },
+    {
+      "asin": "B016KE0CFM",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "sanding",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "05 13, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B016KE0CFM",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is such a beautiful glass dip pen. I gave it 5 stars just for its looks. The glass stand is included and it is so nice to have. The small bottle of blue-black ink is well wrapped so it won't leak. I put it inside another baggie, just in case. The nib wrote with a broad stroke, so I sanded it to a more fine point. I wish there were more products available.",
+          "summary": "Absolutely gorgeous!",
+          "unixReviewTime": 1494633600
+        }
+      ]
+    },
+    {
+      "asin": "B016YRRU82",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "pearlescent",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "08 15, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B016YRRU82",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I wanted these because of the rave reviews. The colors are stunning and the quality is creamy smooth and so easy to work with. They are generous with the added tools. I prefer to use a pastel brush, a paper stump or a precision tip cotton swab. The mediums are two types of iridescence to make the colors in the collection coarsely or finely pearlescent. A must-have set even if you use other pastels.",
+          "summary": "Beautiful product",
+          "unixReviewTime": 1502755200
+        }
+      ]
+    },
+    {
+      "asin": "B016ZTCDFO",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "keep my Shiva oil paint sticks",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "12 11, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B016ZTCDFO",
+          "style": {
+            "Size:": " 0.98\"x5.12\"-30pcs",
+            "Color:": " Clear-0.98\"x5.12\""
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I bought these to keep my Richeson Shiva oil paint sticks. They are the perfect size.",
+          "summary": "For my Shiva oil paint sticks",
+          "unixReviewTime": 1512950400
+        }
+      ]
+    },
+    {
+      "asin": "B01A9UE9X4",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "oil",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "chalk pastels",
+            "sentiment": "neutral"
+          }
+        ],
+        "Dimensions": [
+          {
+            "entity": "tips",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "burnishing",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "blending",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "07 5, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01A9UE9X4",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I got these to use with oil and chalk pastels for burnishing and blending. The tips are a little bigger than I wanted, but they are still useful.",
+          "summary": "Useful tools for more than sculpting",
+          "unixReviewTime": 1499212800
+        }
+      ]
+    },
+    {
+      "asin": "B019W9EFWI",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "carry around",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "04 13, 2016",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B019W9EFWI",
+          "style": {
+            "Size:": " 36-Holes",
+            "Color:": " Bohemian"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I am using this to store my Staedtler fineliner pens. This is so much nicer and easier to carry around than the paper box. I like the colors of this wrap and I ordered a second to carry my inktense pencils.",
+          "summary": "Practical and lovely",
+          "unixReviewTime": 1460505600
+        }
+      ]
+    },
+    {
+      "asin": "B01AMLI74W",
+      "user_preference_entities": {
+        "Brand": [
+          {
+            "entity": "vintage collection",
+            "sentiment": "positive"
+          }
+        ],
+        "Quantity": [
+          {
+            "entity": "Six pages",
+            "sentiment": "neutral"
+          }
+        ],
+        "Material": [
+          {
+            "entity": "paper",
+            "sentiment": "positive"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "texture",
+            "sentiment": "positive"
+          }
+        ],
+        "Technique": [
+          {
+            "entity": "wet media",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "04 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01AMLI74W",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Very pretty set. Six pages of vintage drawings and six blanks to make my own drawings. The paper is nice and thick, and just the right texture for different types of wet media.",
+          "summary": "Nice vintage collection",
+          "unixReviewTime": 1523750400
+        }
+      ]
+    },
+    {
+      "asin": "B01BQWHP12",
+      "user_preference_entities": {
+        "Dimensions": [
+          {
+            "entity": "smaller",
+            "sentiment": "negative"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "travel pallet",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "04 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01BQWHP12",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This is much smaller than I expected, but it is perfect for my travel pallet.",
+          "summary": "Tiny but nice!",
+          "unixReviewTime": 1523750400
+        }
+      ]
+    },
+    {
+      "asin": "B01BLEISSY",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "thin strokes",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "2",
+          "verified": true,
+          "reviewTime": "04 27, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01BLEISSY",
+          "style": {
+            "Size:": " 80 Colors set"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I finally joined the watercolor brush world when I purchased this set. I swatched these on mixed media paper. What I like about these is that they have real paint brush tips and not flexible marker tips. They worked well and laid down rich vibrant color. I then tried these on a page of a good quality coloring book. The paper seemed to absorb the ink well and there was no bleed-through. The brush can write with broad strokes or very thin ones. It is up to my talent to determine how well these will be used. I need to practice my detailing technique. I think there is a good balance of colors but some people there are not enough of one color or too many of other. There are a number of YouTube videos to show how to use these pens, store them and manage them. Overall I am glad I got these and look forward to coloring some of my favorite pages.",
+          "summary": "Beautiful set for intermediate color artists",
+          "unixReviewTime": 1493251200
+        }
+      ]
+    },
+    {
+      "asin": "B01F4704XG",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "tubes",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "8",
+          "verified": true,
+          "reviewTime": "03 18, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01F4704XG",
+          "reviewerName": "PearlGirl",
+          "reviewText": "What a joy to work with quality paints! I have played around with cheap paints, so these kit is a pleasant surprise. The colors mix, blend and layer wonderfully. Just a tiny bit on the tip of the brush goes a long way. These tubes will last a long long time.",
+          "summary": "Great quality for a student grade kit",
+          "unixReviewTime": 1521331200
+        }
+      ]
+    },
+    {
+      "asin": "B01F8HLF1M",
+      "user_preference_entities": {
+        "Quantity": [
+          {
+            "entity": "good size",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "stand",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "directions",
+            "sentiment": "negative"
+          }
+        ],
+        "Activity": [
+          {
+            "entity": "sewing",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "06 24, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01F8HLF1M",
+          "style": {
+            "Color:": " white"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "There were no directions but I could look at the photo to see how it was put together. It was not difficult at all. It is a good size for the limited space in my sewing area. It is a little lightweight but it seems like it will do the job of holding and guiding thread.",
+          "summary": "Good price for a smaller stand",
+          "unixReviewTime": 1529798400
+        }
+      ]
+    },
+    {
+      "asin": "B01EX57LTK",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "sharpening",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "neutral",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "vote": "6",
+          "verified": true,
+          "reviewTime": "04 17, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01EX57LTK",
+          "style": {
+            "Color:": " Pack of 100 Color"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "I had been considering whether to add these pencils to my collection for a while. Now that I have them, I do not know if I really like them. The leads are very soft but mine seem to sharpen well in my battery powered sharpener. The colors are nice but they do not grab me the way my PrismaColors and Holbeins do. The colors have numbers but not names. I will spend some time playing with these to see what type of coloring they work best.\n\nUpdate 04/23: I finished a page in my Millie Marotta coloring book. I first colored, then blended, the colors. The colors lay down with a matte finish and are very creamy. They blend well with a blending pencil. The finished product is smooth and glossy. The only problem I had was how the pencils feel in the hand. I sharpened them to a point but it does not last long while coloring. Although the lead was within the pencil casing, it felt like something was loose and broken. I had to be careful not to press too hard. Overall they are nice colors and they lay down well. They blend well and the colors are quite vibrant.",
+          "summary": "Nice colors but this brand does not fully live up to my expectations",
+          "unixReviewTime": 1492387200
+        }
+      ]
+    },
+    {
+      "asin": "B01FEYYW96",
+      "user_preference_entities": {
+        "entity": [
+          {
+            "entity": "writing",
+            "sentiment": "neutral"
+          }
+        ],
+        "sentiment": [
+          {
+            "entity": "positive",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "vote": "15",
+          "verified": true,
+          "reviewTime": "03 6, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01FEYYW96",
+          "style": {
+            "Color:": " YH"
+          },
+          "reviewerName": "PearlGirl",
+          "reviewText": "A glass pen is a must for the dip pen collection. The ridged tip acts as a reservoir to hold lots of ink. I have to hold the pen at a 45 degree angle or the ink will drip too much and create a puddle. Once I got the hang of it, writing with the glass dip pen was nice. It is a fine nib but different pressure at a little higher angle can broaden the width of the writing line. I ordered the white and the red. Both are pretty, but the red is subtle under the frosty exterior.\n\n03/30/17: I received the black today. It really looks like a glittering brown with black edging. It is a beautiful pen.",
+          "summary": "A must for the dip pen collector!",
+          "unixReviewTime": 1488758400
+        }
+      ]
+    },
+    {
+      "asin": "B01GF0152A",
+      "user_preference_entities": {
+        "Color/Finish": [
+          {
+            "entity": "Colorful",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "sharp",
+            "sentiment": "positive"
+          }
+        ],
+        "Usage": [
+          {
+            "entity": "scissors",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "06 15, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01GF0152A",
+          "reviewerName": "PearlGirl",
+          "reviewText": "Colorful and very sharp",
+          "summary": "Great scissors",
+          "unixReviewTime": 1529020800
+        }
+      ]
+    },
+    {
+      "asin": "B01H684F7W",
+      "user_preference_entities": {
+        "Material": [
+          {
+            "entity": "paper",
+            "sentiment": "negative"
+          },
+          {
+            "entity": "watercolor paints",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "markers",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "Mod Podge",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "gesso",
+            "sentiment": "neutral"
+          }
+        ],
+        "Design": [
+          {
+            "entity": "drawings",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "puff dots",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "word stickers",
+            "sentiment": "positive"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "puff dots",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "word stickers",
+            "sentiment": "positive"
+          }
+        ],
+        "Accessories": [
+          {
+            "entity": "Mod Podge",
+            "sentiment": "neutral"
+          },
+          {
+            "entity": "gesso",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 4.0,
+          "verified": true,
+          "reviewTime": "05 3, 2018",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01H684F7W",
+          "reviewerName": "PearlGirl",
+          "reviewText": "I like the selection of drawings. The puff dots and word stickers are a nice touch. The paper is a little thin for watercolor paints and markers. I can add a layer of mod podge or gesso to give me a better pallet.",
+          "summary": "Nice kit!",
+          "unixReviewTime": 1525305600
+        }
+      ]
+    },
+    {
+      "asin": "B01HJ4LAUI",
+      "user_preference_entities": {
+        "Quantity": [
+          {
+            "entity": "15 brushes",
+            "sentiment": "neutral"
+          }
+        ],
+        "Selling Point": [
+          {
+            "entity": "plenty of slots",
+            "sentiment": "positive"
+          },
+          {
+            "entity": "sturdy",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "review_content": [
+        {
+          "overall": 5.0,
+          "verified": true,
+          "reviewTime": "11 12, 2017",
+          "reviewerID": "AG7EF0SVBQOUX",
+          "asin": "B01HJ4LAUI",
+          "reviewerName": "PearlGirl",
+          "reviewText": "This holder has plenty of slots for at least 15 brushes plus pencils and whatever else I wish to carry. It feels sturdy so it should last a long time.",
+          "summary": "Good value and holds plenty",
+          "unixReviewTime": 1510444800
+        }
+      ]
+    }
+  ]
+}

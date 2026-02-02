@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(python3:*)",
+      "Bash(sinfo:*)",
+      "Bash(ls:*)",
+      "Bash(squeue:*)",
+      "Bash(scontrol show job:*)",
+      "Bash(sacct:*)"
+    ]
+  }
+}

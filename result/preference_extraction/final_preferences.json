@@ -1,0 +1,60 @@
+[
+  {
+    "asin": "B0019K3QD8",
+    "extraction": {
+      "Product Category": "Scrapbooking & Stamping",
+      "Tool Performance": [
+        {
+          "entity": "6-inch reach",
+          "original_text": "My favorite feature, and the reason I bought the CAD II BBP is its long reach.",
+          "sentiment": "positive"
+        },
+        {
+          "entity": "Rotating cubes alignment",
+          "original_text": "The top and bottom cubes that rotate so you can punch the correct size of eyelet have a bit of wiggle room, so that the top and bottom points don't come precisely together.",
+          "sentiment": "negative",
+          "improvement_wish": "Precise alignment of rotating cubes without wiggle room"
+        },
+        {
+          "entity": "Even eyelet compression",
+          "original_text": "The tool can still set eyelets, but one side of the eyelet gets a bit more squashed down than the other side.",
+          "sentiment": "negative",
+          "improvement_wish": "Uniform compression on all sides of the eyelet"
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B00AJ2K8L0",
+    "extraction": {
+      "Product Category": "Scrapbooking & Stamping",
+      "Cutting Performance": [
+        {
+          "entity": "Clean cut on 80lb cardstock",
+          "original_text": "When I attempted to cut regular cardstock (80 lb) with this die, I had to finish the cut with my trusty #11 X-Acto blade.",
+          "sentiment": "negative",
+          "improvement_wish": "Clean cutting through 80lb cardstock without requiring manual finishing with craft knife"
+        },
+        {
+          "entity": "Machine compatibility performance",
+          "original_text": "I attempted to cut this die with both my Big Shot die cutting machine and my Sizzix Grand Calibur machine, but neither yielded a completely clean cut, even when I used a shim.",
+          "sentiment": "negative",
+          "improvement_wish": "Consistent clean cutting performance across all compatible die-cutting machines"
+        },
+        {
+          "entity": "Easy part separation",
+          "original_text": "It took an extra fifteen minutes to free up the oval ivy border from the excess card stock.",
+          "sentiment": "negative",
+          "improvement_wish": "Design that allows cut pieces to separate easily from excess material without additional work"
+        }
+      ],
+      "Product Features": [
+        {
+          "entity": "Ejection foam attachment",
+          "original_text": "All of the Cottage Cutz dies come with a thin piece of sticky-backed foam that you fit over the die face.",
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+]
